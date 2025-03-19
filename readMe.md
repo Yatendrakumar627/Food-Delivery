@@ -63,5 +63,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Yatendra kumar - yatendrakumar627@gmail.com
 
-Project Link: [https://github.com/your-username/fdelivery]
-              (https://github.com/your-username/fdelivery)
+Project Link: (https://github.com/Yatendrakumar627/Food-Delivery.git)
+
